@@ -53,7 +53,5 @@
 
 
 
-## Github Details
-* https://github.com/99002463/calculator:
-* By:SANJAT CHAND
+
 
